@@ -1,6 +1,7 @@
 # Flappy Bird: NEAT-Driven Evolutionary Game Simulation  
 
 This repository contains an AI-powered self-learning agent that autonomously plays Flappy Bird using **NeuroEvolution of Augmenting Topologies (NEAT)**. The AI evolves strategies dynamically, improving its performance over multiple generations through reinforcement learning techniques.  
+
 ![Flappy Bird Using NEAT](./imgs/flappy_bird.png)
 
 ## Table of Contents  
