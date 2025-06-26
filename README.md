@@ -89,9 +89,6 @@ Contributions are welcome! If you'd like to improve the tool, optimize the AI, o
 ### Contribution Guidelines:  
 - Follow best practices for **code modularity and efficiency**.  
 - Ensure **backward compatibility** with existing configurations.  
-- Test your changes thoroughly before submitting a **pull request**.  
-
-## License  
-This project is licensed under the **MIT License**. See the LICENSE file for more details.  
+- Test your changes thoroughly before submitting a **pull request**.   
 
 ---
